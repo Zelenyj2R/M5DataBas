@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Elizabeth Bradley",
+    "birthday": "1997-03-12",
+    "level": "Trainee",
+    "salary": 520
+  },
+  {
+    "name": "Kristina Nguyen",
+    "birthday": "1990-02-27",
+    "level": "Junior",
+    "salary": 1000
+  },
+  {
+    "name": "Kim Moore",
+    "birthday": "1993-06-05",
+    "level": "Middle",
+    "salary": 2300
+  },
+  {
+    "name": "Robin Smith",
+    "birthday": "1985-07-18",
+    "level": "Senior",
+    "salary": 6400
+  },
+  {
+    "name": "Crystal Wilson",
+    "birthday": "2004-11-10",
+    "level": "Trainee",
+    "salary": 410
+  },
+  {
+    "name": "Cynthia Johnson",
+    "birthday": "1996-05-21",
+    "level": "Junior",
+    "salary": 900
+  },
+  {
+    "name": "James Jones",
+    "birthday": "1999-09-11",
+    "level": "Middle",
+    "salary": 1900
+  },
+  {
+    "name": "John McLaughlin",
+    "birthday": "1992-02-20",
+    "level": "Senior",
+    "salary": 6500
+  },
+  {
+    "name": "Dan Smith",
+    "birthday": "2001-08-11",
+    "level": "Trainee",
+    "salary": 550
+  },
+  {
+    "name": "Susan Henderson",
+    "birthday": "1988-08-08",
+    "level": "Junior",
+    "salary": 850
+  }
+]
